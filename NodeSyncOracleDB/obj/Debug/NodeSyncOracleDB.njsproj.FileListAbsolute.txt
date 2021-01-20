@@ -1,0 +1,3 @@
+F:\code\NodeSyncOracleDB\obj\Debug\NodeSyncOracleDB.njsprojAssemblyReference.cache
+F:\code\NodeSyncOracleDB\obj\Debug\NodeSyncOracleDB.njsproj.CoreCompileInputs.cache
+F:\code\NodeSyncOracleDB\bin\Microsoft.NodejsTools.WebRole.dll
